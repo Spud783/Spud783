@@ -1,6 +1,6 @@
 - Hi, I’m @Spud783
 - I’m interested in doing different python projects
-- I’m currently learning javascript
+- I’m currently learning java
 
 <!---
 Spud783/Spud783 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
